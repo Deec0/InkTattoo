@@ -1380,7 +1380,7 @@ body {
 }
 
 .slick-slide {
-  display: inline-block;
+  float: left;
 }
 
 /* Конкретный слайдер */
